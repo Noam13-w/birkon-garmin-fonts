@@ -1,0 +1,7 @@
+<fonts>
+    <font id="BodyS" filename="bodys.fnt" antialias="true" />
+    <font id="BodyM" filename="bodym.fnt" antialias="true" />
+    <font id="BodyL" filename="bodyl.fnt" antialias="true" />
+    <font id="Heading" filename="heading.fnt" antialias="true" />
+    <font id="Small" filename="small.fnt" antialias="true" />
+</fonts>
